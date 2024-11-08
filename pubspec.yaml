@@ -46,7 +46,9 @@ dependencies:
   fluttertoast: ^8.2.4
   dio:
   dotted_border: ^2.1.0
-  image_gallery_saver: ^2.0.3
+  #image_gallery_saver: ^2.0.3
+  image_gallery_saver_plus: ^3.0.5
+  flutter_screenutil: ^5.9.3
 
 
   # The following adds the Cupertino Icons font to your application.
